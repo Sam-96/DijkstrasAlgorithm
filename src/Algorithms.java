@@ -1,5 +1,5 @@
 /*
- * Samuel Akinmulero, Nelson Conyers, Luis Cuadros, Brittany Saunders
+ * Brittany Saunders, Samuel Akinmulero, Nelson Conyers, Luis Cuadros
  * 05-03-2018
  * CS560 Spring 2018
  * Algorithms Group Programming Assignment
